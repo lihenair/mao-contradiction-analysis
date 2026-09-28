@@ -1,6 +1,6 @@
 # 毛选看世界 Skill
 
-把地缘事件写成「毛选看世界」专栏。结构跟着卡点走，不填「格局层 → 区域层 → 事件层」。纪律仍在：行为≠结果、功能≠动机、方向≠幅度、变量≠预测；收束必须带证伪条件。
+把地缘事件写成「毛选看世界」专栏。先定文类：主角自己出手走**主篇**；战火溢到盟友本土、基地、后勤走**侧翼/续篇**。不填「格局层 → 区域层 → 事件层」。纪律仍在：行为≠结果、功能≠动机、方向≠幅度、变量≠预测；收束必须带证伪条件或可观察信号。
 
 本仓库就是这份 Skill。用 Cursor、Claude Code 或其他兼容 [Agent Skills](https://agentskills.io) 的工具加载即可。
 
@@ -32,11 +32,13 @@ cp -R skills/mao-contradiction-analysis ~/.claude/skills/
 
 目录里必须保留 `SKILL.md`。对照写法读同目录 `examples.md`。
 
-## 成稿默认长这样
+## 两种成稿
 
-日期动作 → 表面/实质 → 为什么要做（最硬事实）→ 真正的火药桶（内因）→ 对手或选项的现状 → 时间窗口 → 大国夹缝 → 数据黑箱 → 主要矛盾 + 证伪条件。
+**主篇**（换岗、谈+打）：日期动作 → 为什么要做 → 火药桶 → 对手或选项 → 时间窗口 → 大国夹缝 → 数据黑箱 → 主要矛盾 + 证伪条件。
 
-第三节标题跟着卡点改。禁止用棋手棋盘、目标函数集合、格局层小标题开篇。
+**侧翼/续篇**（Fairford 这一类）：现场与资产 → 外因贴上围栏 → 内政管道分层 → 接到主结构（主次不颠倒）→ 结构判断与个案定性分开 + 可观察信号。
+
+禁止用棋手棋盘、目标函数集合开篇；禁止把侧翼硬套成 50 天闪电战或两套民调。
 
 完整规则：[`skills/mao-contradiction-analysis/SKILL.md`](skills/mao-contradiction-analysis/SKILL.md)  
 正反示例：[`skills/mao-contradiction-analysis/examples.md`](skills/mao-contradiction-analysis/examples.md)
