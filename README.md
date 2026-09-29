@@ -43,7 +43,8 @@ cp -R skills/mao-contradiction-analysis ~/.claude/skills/
 动笔前应抓 Reuters/AFP/AP/DW/Al Jazeera/新华等公开通稿。禁止用棋手棋盘开篇，禁止把塔伊兹写成 Fairford。
 
 完整规则：[`skills/mao-contradiction-analysis/SKILL.md`](skills/mao-contradiction-analysis/SKILL.md)  
-正反示例：[`skills/mao-contradiction-analysis/examples.md`](skills/mao-contradiction-analysis/examples.md)
+正反示例：[`skills/mao-contradiction-analysis/examples.md`](skills/mao-contradiction-analysis/examples.md)  
+系列成稿：[`columns/`](columns/)
 
 ## 仓库结构
 
@@ -51,5 +52,6 @@ cp -R skills/mao-contradiction-analysis ~/.claude/skills/
 skills/mao-contradiction-analysis/
   SKILL.md       # 专栏章法 + 硬闸
   examples.md    # 正反示例
-.cursor/skills/mao-contradiction-analysis/  # 指向上述目录
+columns/                     # 系列成稿（校准用，不是通稿汇编）
+.cursor/skills/mao-contradiction-analysis/  # 指向技能目录
 ```
