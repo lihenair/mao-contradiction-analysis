@@ -1,6 +1,6 @@
 # 毛选看世界 Skill
 
-把地缘事件写成「毛选看世界」专栏。先定文类：主角自己出手走**主篇**；战火溢到盟友本土、基地、后勤走**侧翼/续篇**。不填「格局层 → 区域层 → 事件层」。纪律仍在：行为≠结果、功能≠动机、方向≠幅度、变量≠预测；收束必须带证伪条件或可观察信号。
+把地缘事件写成「毛选看世界」专栏。先抓多源通稿钉事实箱，再定文类：主角出手走**主篇**；盟友基地/内政走**侧翼·后勤反噬**；代理人次级战区走**侧翼·边缘燃烧**。两类侧翼禁止互套。不填格局层作业纸。收束的信号必须分叉成不同结果。
 
 本仓库就是这份 Skill。用 Cursor、Claude Code 或其他兼容 [Agent Skills](https://agentskills.io) 的工具加载即可。
 
@@ -36,9 +36,11 @@ cp -R skills/mao-contradiction-analysis ~/.claude/skills/
 
 **主篇**（换岗、谈+打）：日期动作 → 为什么要做 → 火药桶 → 对手或选项 → 时间窗口 → 大国夹缝 → 数据黑箱 → 主要矛盾 + 证伪条件。
 
-**侧翼/续篇**（Fairford 这一类）：现场与资产 → 外因贴上围栏 → 内政管道分层 → 接到主结构（主次不颠倒）→ 结构判断与个案定性分开 + 可观察信号。
+**侧翼·后勤反噬**（Fairford）：现场与资产 → 内政管道 → 接到主结构。
 
-禁止用棋手棋盘、目标函数集合开篇；禁止把侧翼硬套成 50 天闪电战或两套民调。
+**侧翼·边缘燃烧**（塔伊兹）：事实箱与前线地理 → 边缘三特征 → 内战/清剿替代解释改归档 → 接到主结构（成本由平民承担）→ 三条路径三种结果。
+
+动笔前应抓 Reuters/AFP/AP/DW/Al Jazeera/新华等公开通稿。禁止用棋手棋盘开篇，禁止把塔伊兹写成 Fairford。
 
 完整规则：[`skills/mao-contradiction-analysis/SKILL.md`](skills/mao-contradiction-analysis/SKILL.md)  
 正反示例：[`skills/mao-contradiction-analysis/examples.md`](skills/mao-contradiction-analysis/examples.md)
