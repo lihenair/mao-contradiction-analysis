@@ -9,6 +9,7 @@
 | Fairford | 侧翼·后勤反噬 | [2026-09-27-fairford.md](2026-09-27-fairford.md) |
 | 塔伊兹市场 | 侧翼·边缘燃烧 | [2026-09-27-taiz.md](2026-09-27-taiz.md) |
 | 爱国者与路线图 | 主篇（多线） | [2026-09-28-ukraine-eu.md](2026-09-28-ukraine-eu.md) |
+| 俄军编制令 | 主篇（单动作） | [2026-09-28-putin-shtat.md](2026-09-28-putin-shtat.md) |
 | 伯纳姆党代会 | 主篇（单动作） | [2026-09-29-burnham.md](2026-09-29-burnham.md) |
 
 规则在 [`../skills/mao-contradiction-analysis/SKILL.md`](../skills/mao-contradiction-analysis/SKILL.md)。
