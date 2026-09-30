@@ -11,5 +11,6 @@
 | 爱国者与路线图 | 主篇（多线） | [2026-09-28-ukraine-eu.md](2026-09-28-ukraine-eu.md) |
 | 俄军编制令 | 主篇（单动作） | [2026-09-28-putin-shtat.md](2026-09-28-putin-shtat.md) |
 | 伯纳姆党代会 | 主篇（单动作） | [2026-09-29-burnham.md](2026-09-29-burnham.md) |
+| “欧版301”与德法文件 | 主篇 | [2026-09-29-eu-aci.md](2026-09-29-eu-aci.md) |
 
 规则在 [`../skills/mao-contradiction-analysis/SKILL.md`](../skills/mao-contradiction-analysis/SKILL.md)。
