@@ -15,5 +15,6 @@
 | MI5 点名 CGTRI | 主篇（单动作） | [2026-09-30-mi5-cgtri.md](2026-09-30-mi5-cgtri.md) |
 | 巴西牛肉配额用满 | 主篇（单动作） | [2026-10-01-brazil-beef.md](2026-10-01-brazil-beef.md) |
 | 美豆清单 | 主篇 | [2026-10-01-us-soybean.md](2026-10-01-us-soybean.md) |
+| 美国存储芯片关税 | 主篇（单动作） | [2026-10-02-us-memory-tariff.md](2026-10-02-us-memory-tariff.md) |
 
 规则在 [`../skills/mao-contradiction-analysis/SKILL.md`](../skills/mao-contradiction-analysis/SKILL.md)。
