@@ -18,5 +18,6 @@
 | 美国存储芯片关税 | 主篇（单动作） | [2026-10-02-us-memory-tariff.md](2026-10-02-us-memory-tariff.md) |
 | 第三艘航母与回信 | 主篇（多线） | [2026-10-02-third-carrier.md](2026-10-02-third-carrier.md) |
 | 俄乌“能源停火”三周没落地，全球柴油为什么跟着紧 | 主篇（多线） | [2026-10-04-russia-ukraine-energy-diesel.md](2026-10-04-russia-ukraine-energy-diesel.md) |
+| 一家精品咖啡馆从开门到关门：搞错了主要矛盾 | 主篇 | [2026-10-04-specialty-coffee.md](2026-10-04-specialty-coffee.md) |
 
 规则在 [`../skills/mao-contradiction-analysis/SKILL.md`](../skills/mao-contradiction-analysis/SKILL.md)。
