@@ -17,5 +17,6 @@
 | 美豆清单 | 主篇 | [2026-10-01-us-soybean.md](2026-10-01-us-soybean.md) |
 | 美国存储芯片关税 | 主篇（单动作） | [2026-10-02-us-memory-tariff.md](2026-10-02-us-memory-tariff.md) |
 | 第三艘航母与回信 | 主篇（多线） | [2026-10-02-third-carrier.md](2026-10-02-third-carrier.md) |
+| 泽连斯基与中期选举 | 主篇（单动作） | [2026-10-03-zelensky-midterm.md](2026-10-03-zelensky-midterm.md) |
 
 规则在 [`../skills/mao-contradiction-analysis/SKILL.md`](../skills/mao-contradiction-analysis/SKILL.md)。
